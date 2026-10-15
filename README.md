@@ -8,7 +8,7 @@
     - [0.1.3. Integrante 3 (LUNA)](./0/0.1/0.1.3/0.1.3.md)
     - [0.1.4. Integrante 4 (SANTIN)](./0/0.1/0.1.4/0.1.4.md)
     - [0.1.5. Integrante 5 (SEVILLANO)](./0/0.1/0.1.5/0.1.5.md)
-  - [0.2. Temas Individuales (Parte 1)](./0/0.2/0.2.md)
+  - [0.2. Temas Individuales (Informe + Video) / Video aporte al proyecto](./0/0.2/0.2.md)
     - [0.2.1. Integrante 1 (ALMEYDA)](./0/0.2/0.2.1/0.2.1.md)
     - [0.2.2. Integrante 2 (GONZALES)](./0/0.2/0.2.2/0.2.2.md)
     - [0.2.3. Integrante 3 (LUNA)](./0/0.2/0.2.3/0.2.3.md)
